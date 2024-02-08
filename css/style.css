@@ -56,7 +56,7 @@ photogrid div element */
 .photogrid .grid-box:nth-child(3n - 2) {
     grid-column: span 2;
     grid-row: span 2;
-}
+} 
 
 
 /* NOTE:- LET US MAKE IT RESPONSIVE TO ANY DEVICES */
